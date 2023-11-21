@@ -1,3 +1,5 @@
+### PR 바로가기: https://github.com/woowacourse-precourse/java-lotto-6/pull/1011
+
 # 미션 - 로또
 
 ## 🔍 진행 방식
